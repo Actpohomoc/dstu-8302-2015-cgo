@@ -2,18 +2,19 @@
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0.2" delimiter-precedes-et-al="after-inverted-name" page-range-format="expanded" default-locale="uk-UA">
   <!-- This style was edited with the Visual CSL Editor (https://editor.citationstyles.org/visualEditor/) -->
   <info>
-    <title>DSTU-8302:2015</title>
-    <title-short>ДСТУ 8302:2015</title-short>
-    <id>http://www.zotero.org/styles/dstu-8302-2015</id>
-    <link rel="self" href="http://www.zotero.org/styles/dstu-8302-2015"/>
+    <title>DSTU-8302:2015:cgo</title>
+    <title-short>ДСТУ 8302:2015:cgo</title-short>
+    <id>http://www.zotero.org/styles/dstu-8302-2015-cgo</id>
+    <link rel="self" href="http://www.zotero.org/styles/dstu-8302-2015-cgo"/>
     <author>
       <name>Mykola Tetiuk</name>
       <email>wir.org@gmail.com</email>
       <uri>https://www.facebook.com/tetyuk</uri>
     </author>
     <author>
-      <name>Borys Moiseienko</name>
-      <email>sk@mbi.com.ua</email>
+      <name>Astro Homoc</name>
+      <email>actpohomoc@gmail.com</email>
+      <uri>https://github.com/Actpohomoc/dstu-8302-2015-cgo</uri>
     </author>
     <contributor>
       <name>Borys Moiseienko</name>
@@ -21,7 +22,7 @@
     </contributor>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
-    <updated>2025-05-16T19:03:38+00:00</updated>
+    <updated>2025-05-16T19:23:07+00:00</updated>
     <link rel="_blank" href="http://www.zotero.org/styles/дсту-8302-2015"/>
   </info>
   <locale>
